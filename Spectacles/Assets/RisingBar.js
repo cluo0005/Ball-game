@@ -7,9 +7,7 @@ var currentPosition = script.getTransform().getWorldPosition();
 currentPosition.y = script.initialTarget;
 script.getTransform().setWorldPosition(currentPosition);
     
-// var isRising = true; // Flag to control if the box is moving up
-
-// // Function to start moving the box upwards
+// Function to start moving the box upwards
 function startRising() {
     isRising = true;
 }
@@ -24,24 +22,6 @@ function levelUp() {
     print("Level up %d", targetHeight);
 
 }
-
-// Update function to move the box upwards at each frame
-// script.createEvent("UpdateEvent").bind(function() {
-//     // if (isRising) {
-//         // var currentPosition = script.Box.getTransform().getWorldPosition();
-
-//         currentPosition = script.getTransform().getWorldPosition();
-    
-//         // Check if the box has reached or passed the current target height
-//         if (currentPosition.y >= targetHeight) {
-//             print("Level up");
-//             levelUp(); // Set the target for the next level
-
-//         }
-//         // Update the box's position
-//         script.Box.getTransform().setWorldPosition(currentPosition);
-//     //  }
-// });
 
 // Initialize and start rising to the first target height
 script.createEvent("OnStartEvent").bind(startRising);

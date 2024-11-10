@@ -4,8 +4,6 @@
 var isRising = true; // lag to control if the ball is moving up
 var targetHeight = 10; // Target height that the ball is rising to
 
-// level number
-// changing your target height for each level
 
 // Function to update the target height to the Box's current Y position
 function updateBarHeight() {
@@ -61,14 +59,6 @@ script.createEvent("UpdateEvent").bind(function() {
         var resetPosition = script.getTransform().getWorldPosition();
         resetPosition.y = -10.0;
         script.getTransform().setWorldPosition(resetPosition);
-        
-
-        // Update the target height for the next level
-        //startNextLevel();
-        
-        // Deactivate the congratulation text
-        // script.Box.congratulation.enabled = false;
-
         
     }
 
