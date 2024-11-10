@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 446
+    size: 441
     values:
       - BallMovement.js
       - Base.png
@@ -315,7 +315,6 @@ CollapsedEntities:
       - Sphere.mesh
       - Sports Pack
       - Sports Pack/.hidden/baseball.ss_graph
-      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Material
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Material/baseball.mat
@@ -336,8 +335,6 @@ CollapsedEntities:
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Material/boomerang.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Meshes/C_boomerang_GEO.mesh
-      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone
-      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Material
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Material/curling_stone.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Meshes/C_curling_stoneBlue_GEO.mesh
@@ -400,8 +397,6 @@ CollapsedEntities:
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Material/tee_baseball.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Meshes/C_tee_GEO.mesh
-      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball
-      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Material
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Material/tennis_ball.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/C_tennis_ball_GEO.mesh
@@ -439,6 +434,7 @@ CollapsedEntities:
       - Text3D.mat
       - Unlit 1.mat
       - Unlit.mat
+      - congrats.png
       - flat 1.ss_graph
       - flat.ss_graph
       - image_unlit 1.ss_graph
@@ -448,5 +444,4 @@ CollapsedEntities:
       - text_3d.ss_graph
       - unlit 1.ss_graph
       - unlit.ss_graph
-      - —Pngtree—congratulations png vactor_6617562.png
   options: 4

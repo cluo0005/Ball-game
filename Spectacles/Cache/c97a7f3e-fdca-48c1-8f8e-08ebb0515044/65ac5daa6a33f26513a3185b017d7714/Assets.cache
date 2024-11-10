@@ -2,7 +2,7 @@
   AssetFiles:
     42dafc37-ef81-4e3b-9c20-152dac1d2fa1: c97a7f3e-fdca-48c1-8f8e-08ebb0515044/65ac5daa6a33f26513a3185b017d7714/Data/Base.png
   AssetCurrentFiles:
-    42dafc37-ef81-4e3b-9c20-152dac1d2fa1: c97a7f3e-fdca-48c1-8f8e-08ebb0515044/65ac5daa6a33f26513a3185b017d7714/Data/Performance/Medium/Base.pvr
+    42dafc37-ef81-4e3b-9c20-152dac1d2fa1: c97a7f3e-fdca-48c1-8f8e-08ebb0515044/65ac5daa6a33f26513a3185b017d7714/Data/Base.png
   Assets:
     - !<FileTexture/42dafc37-ef81-4e3b-9c20-152dac1d2fa1>
       PackagePath: ""

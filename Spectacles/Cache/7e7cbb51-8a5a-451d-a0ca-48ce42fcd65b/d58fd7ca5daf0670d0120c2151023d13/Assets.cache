@@ -129,7 +129,7 @@
         Port_WorldTangent_N004:
           typeIdx: 4
           value: {x: 0.000000, y: 0.000000, z: 1.000000}
-      PassUiData: !<PassUiData/1c85c7b3-a07f-4b93-8ec3-8a48cdfff772>
+      PassUiData: !<PassUiData/0d6e1308-1d5d-43d4-a887-c3b8fd1ac2bf>
         ExtraDefines:
           - SC_ENABLE_RT_CASTER
           - SC_ENABLE_RT_RECEIVER

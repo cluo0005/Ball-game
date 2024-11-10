@@ -1,8 +1,8 @@
 - !<AssetCache/767f347e-16c8-d01e-75a2-0b9123788552>
   AssetFiles:
-    86e64ac8-26a3-41b8-9af4-1f947de6b277: 4049975b-e797-4c7f-b7c1-305eab9829d6/767f347e16c8d01e75a20b9123788552/Data/—Pngtree—congratulations png vactor_6617562.png
+    86e64ac8-26a3-41b8-9af4-1f947de6b277: 4049975b-e797-4c7f-b7c1-305eab9829d6/767f347e16c8d01e75a20b9123788552/Data/congrats.png
   AssetCurrentFiles:
-    86e64ac8-26a3-41b8-9af4-1f947de6b277: 4049975b-e797-4c7f-b7c1-305eab9829d6/767f347e16c8d01e75a20b9123788552/Data/Performance/Low/—Pngtree—congratulations png vactor_6617562.pvr
+    86e64ac8-26a3-41b8-9af4-1f947de6b277: 4049975b-e797-4c7f-b7c1-305eab9829d6/767f347e16c8d01e75a20b9123788552/Data/Performance/Low/congrats.pvr
   Assets:
     - !<FileTexture/86e64ac8-26a3-41b8-9af4-1f947de6b277>
       PackagePath: ""

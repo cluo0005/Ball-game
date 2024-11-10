@@ -57,7 +57,7 @@ script.createEvent("UpdateEvent").bind(function() {
         var currentPosition = script.Box.getTransform().getWorldPosition();
         
         // // Move the box upwards at a constant speed
-        currentPosition.y += script.riseSpeed * getDeltaTime();
+        currentPosition.y += 2 * script.riseSpeed * getDeltaTime();
 
         // Check if the box has reached or passed the current target height
         if (!isRising) {
@@ -70,7 +70,7 @@ script.createEvent("UpdateEvent").bind(function() {
         }
         // Update the box's position
         script.Box.getTransform().setWorldPosition(currentPosition);
-    // }
+    //  }
 });
 
 // Initialize and start rising to the first target height

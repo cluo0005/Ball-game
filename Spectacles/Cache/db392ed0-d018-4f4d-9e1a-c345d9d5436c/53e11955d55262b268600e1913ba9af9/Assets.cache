@@ -2,7 +2,7 @@
   AssetFiles:
     764bfb2e-4b3c-42df-9627-da17de42b09c: db392ed0-d018-4f4d-9e1a-c345d9d5436c/53e11955d55262b268600e1913ba9af9/Data/skeleton_sled_color.png
   AssetCurrentFiles:
-    764bfb2e-4b3c-42df-9627-da17de42b09c: db392ed0-d018-4f4d-9e1a-c345d9d5436c/53e11955d55262b268600e1913ba9af9/Data/Performance/Medium/skeleton_sled_color.pvr
+    764bfb2e-4b3c-42df-9627-da17de42b09c: db392ed0-d018-4f4d-9e1a-c345d9d5436c/53e11955d55262b268600e1913ba9af9/Data/skeleton_sled_color.png
   Assets:
     - !<FileTexture/764bfb2e-4b3c-42df-9627-da17de42b09c>
       PackagePath: ""

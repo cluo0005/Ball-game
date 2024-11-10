@@ -2,7 +2,7 @@
   AssetFiles:
     1026c008-71ae-4a22-aee7-d293ee7bc16c: 78151f15-f14a-4dff-93e1-eb15b1e6009a/2db35e892203e8fa9a6743481cd4b66a/Data/bat_baseball_color.png
   AssetCurrentFiles:
-    1026c008-71ae-4a22-aee7-d293ee7bc16c: 78151f15-f14a-4dff-93e1-eb15b1e6009a/2db35e892203e8fa9a6743481cd4b66a/Data/Performance/Medium/bat_baseball_color.pvr
+    1026c008-71ae-4a22-aee7-d293ee7bc16c: 78151f15-f14a-4dff-93e1-eb15b1e6009a/2db35e892203e8fa9a6743481cd4b66a/Data/bat_baseball_color.png
   Assets:
     - !<FileTexture/1026c008-71ae-4a22-aee7-d293ee7bc16c>
       PackagePath: ""

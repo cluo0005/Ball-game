@@ -75,7 +75,7 @@ script.createEvent("UpdateEvent").bind(function() {
         
         // Move the ball upwards at a constant speed
         if (currentPosition.y < targetHeight) {
-            currentPosition.y += script.riseSpeed * getDeltaTime();
+            currentPosition.y += 2 * script.riseSpeed * getDeltaTime();
             script.getTransform().setWorldPosition(currentPosition);
         } else {
             // When the ball reaches the target height, set the current position to the target
@@ -90,6 +90,6 @@ script.createEvent("UpdateEvent").bind(function() {
 });
 
 // Start rising each time
-script.createEvent("OnStartEvent").bind(startRising);
+// script.createEvent("OnStartEvent").bind(startRising);
 
 // Optional: Restart rising each time the box moves by binding this to a trigger event or condition.

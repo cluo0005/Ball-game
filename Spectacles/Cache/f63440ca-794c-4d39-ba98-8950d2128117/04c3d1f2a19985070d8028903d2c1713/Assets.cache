@@ -2,7 +2,7 @@
   AssetFiles:
     c81b526e-99aa-49e0-a092-6cc899998b8f: f63440ca-794c-4d39-ba98-8950d2128117/04c3d1f2a19985070d8028903d2c1713/Data/soft-reflection.jpg
   AssetCurrentFiles:
-    c81b526e-99aa-49e0-a092-6cc899998b8f: f63440ca-794c-4d39-ba98-8950d2128117/04c3d1f2a19985070d8028903d2c1713/Data/Size/Medium/soft-reflection.jpg
+    c81b526e-99aa-49e0-a092-6cc899998b8f: f63440ca-794c-4d39-ba98-8950d2128117/04c3d1f2a19985070d8028903d2c1713/Data/soft-reflection.jpg
   Assets:
     - !<FileTexture/c81b526e-99aa-49e0-a092-6cc899998b8f>
       PackagePath: ""

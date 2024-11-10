@@ -2,7 +2,7 @@
   AssetFiles:
     4dcaff02-e688-438d-82bc-0d9bc1ca8e6a: 37fdc17d-65ac-4a3f-a332-221898386959/2315eccd8b1a2d7b6c80d6e96bf3be47/Data/tee_baseball_color.png
   AssetCurrentFiles:
-    4dcaff02-e688-438d-82bc-0d9bc1ca8e6a: 37fdc17d-65ac-4a3f-a332-221898386959/2315eccd8b1a2d7b6c80d6e96bf3be47/Data/Performance/Medium/tee_baseball_color.pvr
+    4dcaff02-e688-438d-82bc-0d9bc1ca8e6a: 37fdc17d-65ac-4a3f-a332-221898386959/2315eccd8b1a2d7b6c80d6e96bf3be47/Data/tee_baseball_color.png
   Assets:
     - !<FileTexture/4dcaff02-e688-438d-82bc-0d9bc1ca8e6a>
       PackagePath: ""

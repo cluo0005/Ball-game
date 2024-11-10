@@ -1,4 +1,4 @@
-- !<AssetCache/e36df9f5-0e02-0704-f55f-69c0bceecfa4>
+- !<AssetCache/ec6292d4-8b1c-99a8-0944-95091b45b1e4>
   AssetFiles:
     7478a513-133c-437a-bac6-b8126d54f736: 7570119b-ee7d-43d5-9f18-9e804cdb8173/ec6292d48b1c99a8094495091b45b1e4/Data/InteractorLineMat.ss_graph
   AssetCurrentFiles:
@@ -114,7 +114,7 @@
         Port_WorldTangent_N004:
           typeIdx: 4
           value: {x: 0.000000, y: 0.000000, z: 1.000000}
-      PassUiData: !<PassUiData/0f57c4e6-6b94-4672-a90c-20f8352e81ce>
+      PassUiData: !<PassUiData/dbcba0db-e50f-41d2-9146-24c754c467d0>
         ExtraDefines:
           []
         PassBindings:

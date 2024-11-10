@@ -2,7 +2,7 @@
   AssetFiles:
     43b8c09c-355d-41a3-8c14-ca6a52a8c931: 4317bd2a-fdec-478e-92b5-207d37e26900/e577a3208680f51ed8754e48455fd19b/Data/ski_poles_color.png
   AssetCurrentFiles:
-    43b8c09c-355d-41a3-8c14-ca6a52a8c931: 4317bd2a-fdec-478e-92b5-207d37e26900/e577a3208680f51ed8754e48455fd19b/Data/Performance/Medium/ski_poles_color.pvr
+    43b8c09c-355d-41a3-8c14-ca6a52a8c931: 4317bd2a-fdec-478e-92b5-207d37e26900/e577a3208680f51ed8754e48455fd19b/Data/ski_poles_color.png
   Assets:
     - !<FileTexture/43b8c09c-355d-41a3-8c14-ca6a52a8c931>
       PackagePath: ""

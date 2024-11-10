@@ -2,7 +2,7 @@
   AssetFiles:
     c988d313-2970-40cb-b690-55b5ab8a548f: a18714bd-dfcb-4895-8df1-e4b0f09e3c81/b05888fba82c1f81ef74822b75219222/Data/SIKContainerExampleImage.jpg
   AssetCurrentFiles:
-    c988d313-2970-40cb-b690-55b5ab8a548f: a18714bd-dfcb-4895-8df1-e4b0f09e3c81/b05888fba82c1f81ef74822b75219222/Data/Performance/Medium/SIKContainerExampleImage.pvr
+    c988d313-2970-40cb-b690-55b5ab8a548f: a18714bd-dfcb-4895-8df1-e4b0f09e3c81/b05888fba82c1f81ef74822b75219222/Data/SIKContainerExampleImage.jpg
   Assets:
     - !<FileTexture/c988d313-2970-40cb-b690-55b5ab8a548f>
       PackagePath: ""

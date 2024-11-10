@@ -2,7 +2,7 @@
   AssetFiles:
     cd4b25ae-22d6-4281-8099-254397df129c: 1ea33921-8c4e-41b6-b0bd-ecbd3a84b172/e860a06b38d1e861c8e6cf262c5e7f4f/Data/karate_board_pile_color.png
   AssetCurrentFiles:
-    cd4b25ae-22d6-4281-8099-254397df129c: 1ea33921-8c4e-41b6-b0bd-ecbd3a84b172/e860a06b38d1e861c8e6cf262c5e7f4f/Data/Performance/Medium/karate_board_pile_color.pvr
+    cd4b25ae-22d6-4281-8099-254397df129c: 1ea33921-8c4e-41b6-b0bd-ecbd3a84b172/e860a06b38d1e861c8e6cf262c5e7f4f/Data/karate_board_pile_color.png
   Assets:
     - !<FileTexture/cd4b25ae-22d6-4281-8099-254397df129c>
       PackagePath: ""

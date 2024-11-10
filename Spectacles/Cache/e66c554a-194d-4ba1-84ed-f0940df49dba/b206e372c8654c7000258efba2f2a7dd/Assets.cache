@@ -2,7 +2,7 @@
   AssetFiles:
     a5c1276d-7223-42a0-8399-63776134523d: e66c554a-194d-4ba1-84ed-f0940df49dba/b206e372c8654c7000258efba2f2a7dd/Data/scale-tr.png
   AssetCurrentFiles:
-    a5c1276d-7223-42a0-8399-63776134523d: e66c554a-194d-4ba1-84ed-f0940df49dba/b206e372c8654c7000258efba2f2a7dd/Data/Size/Medium/scale-tr.png
+    a5c1276d-7223-42a0-8399-63776134523d: e66c554a-194d-4ba1-84ed-f0940df49dba/b206e372c8654c7000258efba2f2a7dd/Data/scale-tr.png
   Assets:
     - !<FileTexture/a5c1276d-7223-42a0-8399-63776134523d>
       PackagePath: ""

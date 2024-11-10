@@ -2,7 +2,7 @@
   AssetFiles:
     b07c14b4-4658-4778-ae38-3d3efe4e7a96: 9fe2327f-76cd-4c48-9eb0-7bcdb90b7637/744cb1a47eda988b89b47899975b1793/Data/tennis_racket_color.png
   AssetCurrentFiles:
-    b07c14b4-4658-4778-ae38-3d3efe4e7a96: 9fe2327f-76cd-4c48-9eb0-7bcdb90b7637/744cb1a47eda988b89b47899975b1793/Data/Performance/Medium/tennis_racket_color.pvr
+    b07c14b4-4658-4778-ae38-3d3efe4e7a96: 9fe2327f-76cd-4c48-9eb0-7bcdb90b7637/744cb1a47eda988b89b47899975b1793/Data/tennis_racket_color.png
   Assets:
     - !<FileTexture/b07c14b4-4658-4778-ae38-3d3efe4e7a96>
       PackagePath: ""

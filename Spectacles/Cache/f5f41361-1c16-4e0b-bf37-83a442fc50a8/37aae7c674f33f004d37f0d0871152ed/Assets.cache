@@ -2,7 +2,7 @@
   AssetFiles:
     257a9420-c820-4aaf-8cb3-f1d648d5534b: f5f41361-1c16-4e0b-bf37-83a442fc50a8/37aae7c674f33f004d37f0d0871152ed/Data/disabled.png
   AssetCurrentFiles:
-    257a9420-c820-4aaf-8cb3-f1d648d5534b: f5f41361-1c16-4e0b-bf37-83a442fc50a8/37aae7c674f33f004d37f0d0871152ed/Data/Size/Medium/disabled.png
+    257a9420-c820-4aaf-8cb3-f1d648d5534b: f5f41361-1c16-4e0b-bf37-83a442fc50a8/37aae7c674f33f004d37f0d0871152ed/Data/disabled.png
   Assets:
     - !<FileTexture/257a9420-c820-4aaf-8cb3-f1d648d5534b>
       PackagePath: ""

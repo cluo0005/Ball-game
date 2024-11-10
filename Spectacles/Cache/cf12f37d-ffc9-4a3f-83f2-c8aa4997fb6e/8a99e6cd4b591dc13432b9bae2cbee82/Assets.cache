@@ -2,7 +2,7 @@
   AssetFiles:
     5dac6c9c-c5c9-484c-8944-3bd6af110180: cf12f37d-ffc9-4a3f-83f2-c8aa4997fb6e/8a99e6cd4b591dc13432b9bae2cbee82/Data/curling_stone_color.png
   AssetCurrentFiles:
-    5dac6c9c-c5c9-484c-8944-3bd6af110180: cf12f37d-ffc9-4a3f-83f2-c8aa4997fb6e/8a99e6cd4b591dc13432b9bae2cbee82/Data/Performance/Medium/curling_stone_color.pvr
+    5dac6c9c-c5c9-484c-8944-3bd6af110180: cf12f37d-ffc9-4a3f-83f2-c8aa4997fb6e/8a99e6cd4b591dc13432b9bae2cbee82/Data/curling_stone_color.png
   Assets:
     - !<FileTexture/5dac6c9c-c5c9-484c-8944-3bd6af110180>
       PackagePath: ""

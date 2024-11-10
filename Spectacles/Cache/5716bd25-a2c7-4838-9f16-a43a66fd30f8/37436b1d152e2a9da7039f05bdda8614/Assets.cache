@@ -2,7 +2,7 @@
   AssetFiles:
     9a781417-8463-44ab-8418-5ace35bf970a: 5716bd25-a2c7-4838-9f16-a43a66fd30f8/37436b1d152e2a9da7039f05bdda8614/Data/stadium_seat_color.png
   AssetCurrentFiles:
-    9a781417-8463-44ab-8418-5ace35bf970a: 5716bd25-a2c7-4838-9f16-a43a66fd30f8/37436b1d152e2a9da7039f05bdda8614/Data/Performance/Medium/stadium_seat_color.pvr
+    9a781417-8463-44ab-8418-5ace35bf970a: 5716bd25-a2c7-4838-9f16-a43a66fd30f8/37436b1d152e2a9da7039f05bdda8614/Data/stadium_seat_color.png
   Assets:
     - !<FileTexture/9a781417-8463-44ab-8418-5ace35bf970a>
       PackagePath: ""
