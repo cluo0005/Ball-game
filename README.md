@@ -1,9 +1,8 @@
 # SnapMotion - Spectacles AR Motion Game
 
-![SnapMotion Game Demo](vid.mp4)
-
-
 A motion-controlled AR game developed for Snap Spectacles using Lens Studio. Players control an ascending tennis ball through various levels by physical movement, interacting with floating platforms and collecting rewards.
+
+In addition to these features, SnapMotion includes customizable and user-adjustable hand-changing AR, allowing players to tailor their experience to their preferences and ensure a more intuitive and personalized gameplay.
 
 ## 📱 Project Overview
 
@@ -94,13 +93,13 @@ SnapMotion is an augmented reality game that uses the Snap Spectacles motion tra
 
 ## 📄 License
 
-Copyright (c) 2024 Chloe Luo
+Copyright (c) 2024 Chun Yan Luo
 
 Distributed under the MIT License. This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-Chloe Luo
+Chun Yan Luo
 
 Project Link: [https://github.com/chloeluo/SnapMotion](https://github.com/cluo0005/Ball-game)
 
