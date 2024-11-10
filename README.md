@@ -44,15 +44,6 @@ SnapMotion is an augmented reality game that uses the Snap Spectacles motion tra
 
 ## ⚙️ Configuration
 
-### Input Parameters
-
-```javascript
-//@input SceneObject Box           // Box object reference
-//@input float riseSpeed = 5.0     // Ball rise speed
-//@input float initialTarget = 10.0 // Initial target height
-//@input float levelIncrement = 10.0 // Level height increment
-```
-
 ### Game Parameters
 
 - **Initial Speed**: 5.0 units/second
