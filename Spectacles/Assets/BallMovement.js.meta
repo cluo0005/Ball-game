@@ -31,6 +31,19 @@
   DefaultScriptInputs:
     - Box: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       riseSpeed: 0.100000
+      startHeight: !<float> 0.000000
+      resetDelay: !<float> 1.000000
+      initialHeight: !<float> 0.000000
+      ballSpeed: 0.100000
+      minDistance: !<float> 1.000000
+      Boxa: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      barSpeed: !<float> 5.000000
+      levelIncrement: !<float> 50.000000
+      bar: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      barObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      BallMovement: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      targetOffset: !<float> 1.000000
+      C_tennis_ball_GEO: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     -
       {}

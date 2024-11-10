@@ -25,7 +25,7 @@
   MaxVisibility: Editable
   ScriptInputsHidden:
     Box: false
-    initialHeight: false
+    initialTarget: false
     levelIncrement: false
     riseSpeed: false
   ScriptTypesHidden:
@@ -37,6 +37,12 @@
       heightIncrement: !<float> 1.000000
       Box: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       levelIncrement: !<float> 50.000000
+      barSpeed: !<float> 5.000000
+      ballSpeed: 0.100000
+      minDistance: !<float> 1.000000
+      bar: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      barObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      initialTarget: !<float> 10.000000
   ScriptTypes:
     -
       {}

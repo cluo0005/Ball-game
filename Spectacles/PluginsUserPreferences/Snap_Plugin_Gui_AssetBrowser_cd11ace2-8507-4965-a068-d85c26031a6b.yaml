@@ -1,7 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 441
+    size: 482
     values:
       - BallMovement.js
       - Base.png
@@ -23,10 +23,11 @@ CollapsedEntities:
       - Render Target.renderTarget
       - RisingBar.js
       - Scene.scene
-      - SpectaclesInteractionKit
+      - SpectaclesInteractionKit/Assets/Audio
       - SpectaclesInteractionKit/Assets/Audio/HoverAudioTrack.wav
       - SpectaclesInteractionKit/Assets/Audio/TriggerEndAudioTrack.wav
       - SpectaclesInteractionKit/Assets/Audio/TriggerStartAudioTrack.wav
+      - SpectaclesInteractionKit/Assets/Materials
       - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials
       - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/PaintedGlow_Left.mat
       - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/PaintedGlow_Right.mat
@@ -36,15 +37,28 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Assets/Materials/ContainerImageMaterial.mat
       - SpectaclesInteractionKit/Assets/Materials/LogoMaterial.mat
       - SpectaclesInteractionKit/Assets/Materials/NormalBasedTargetOutline.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonDarkInactive.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonDarkRadial.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOffIcon.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnDefault.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnIcon.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnSelect.mat
       - SpectaclesInteractionKit/Assets/Materials/ScaleBasedTargetOutline.mat
+      - SpectaclesInteractionKit/Assets/Materials/ScrollBarButton.mat
       - SpectaclesInteractionKit/Assets/Materials/ScrollBarSlider.mat
       - SpectaclesInteractionKit/Assets/Materials/SimplePBRMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/PinchButtonDarkDefault.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/PinchButtonOnSelect.mat
       - SpectaclesInteractionKit/Assets/Materials/SliderMat/SliderMat.mat
       - SpectaclesInteractionKit/Assets/Materials/SliderMat/TargetOutlineMaterial.mat
       - SpectaclesInteractionKit/Assets/Materials/SpritePreset.mat
       - SpectaclesInteractionKit/Assets/Materials/TargetOutlineMaterial.mat
       - SpectaclesInteractionKit/Assets/Materials/Text3DDefault.mat
+      - SpectaclesInteractionKit/Assets/Meshes
       - SpectaclesInteractionKit/Assets/Meshes/BoxMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ButtonCapsuleMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ButtonSphereMesh.mesh
       - SpectaclesInteractionKit/Assets/Meshes/Check.mesh
       - SpectaclesInteractionKit/Assets/Meshes/LeftHandMesh.mesh
       - SpectaclesInteractionKit/Assets/Meshes/PlaneMesh.mesh
@@ -55,15 +69,19 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Assets/Meshes/SnapGhost_Mesh.mesh
       - SpectaclesInteractionKit/Assets/Meshes/SphereMesh.mesh
       - SpectaclesInteractionKit/Assets/Meshes/Uncheck.mesh
+      - SpectaclesInteractionKit/Assets/Shaders
       - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders
       - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/PaintedGlow_Left.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/PaintedGlow_Right.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/RadialGradientOcclusion.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/TipGlowMaterial.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/NormalBasedTargetOutline.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PinchButton-ActiveOrInActive.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/PinchDarkRadial.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/ScaleBasedTargetOutline.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/ScrollBarSlider.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders/PinchButton-Default.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/SliderShaders/Slider.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/SpritePreset.ss_graph
       - SpectaclesInteractionKit/Assets/Shaders/TargetOutline.ss_graph
@@ -86,6 +104,7 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Assets/Textures/SIKContainerExampleImage.jpg
       - SpectaclesInteractionKit/Assets/Textures/SIKLogo.png
       - SpectaclesInteractionKit/Assets/Textures/ScrollBarRectangle.png
+      - SpectaclesInteractionKit/Components
       - SpectaclesInteractionKit/Components/Helpers
       - SpectaclesInteractionKit/Components/Helpers/CapsuleMeshCustomizer.ts
       - SpectaclesInteractionKit/Components/Helpers/InteractableAudioFeedback.ts
@@ -133,21 +152,34 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineMaterial.mat
       - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineRenderer.ts
       - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineVisual.ts
+      - SpectaclesInteractionKit/Components/UI
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/ContainerFrame.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.mat
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.ss_graph
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.mat
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.ss_graph
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Image.mat
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Label.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.ss_graph
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/flat.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame.mesh
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_High.mesh
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_Mid.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SphereButton.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SysSettings_settings_button.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/pinch-depth-button.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/FramePrefab.prefab
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/container-button.prefab
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/README.md
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon-1.png
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/container-button-matcap.jpg
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-black.png
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white-shadow.png
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white.png
@@ -155,14 +187,18 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1.jpg
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/soft-reflection.jpg
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/container-ui.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/CursorHandler.ts
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/ForceContainerParent.ts
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/FrameInputHandler.ts
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/HoverBehavior.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/LabeledPinchButton.ts
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual/SimpleLODRenderMeshVisual.ts
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SmoothFollow.ts
       - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SnappableBehavior.ts
+      - SpectaclesInteractionKit/Components/UI/PinchButton
+      - SpectaclesInteractionKit/Components/UI/PinchButton/PinchButton.ts
       - SpectaclesInteractionKit/Components/UI/ScrollBar
       - SpectaclesInteractionKit/Components/UI/ScrollBar/ScrollBar.ts
       - SpectaclesInteractionKit/Components/UI/ScrollView
@@ -178,6 +214,8 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/VisualBoundariesProvider.ts
       - SpectaclesInteractionKit/Components/UI/Slider
       - SpectaclesInteractionKit/Components/UI/Slider/Slider.ts
+      - SpectaclesInteractionKit/Components/UI/ToggleButton
+      - SpectaclesInteractionKit/Components/UI/ToggleButton/ToggleButton.ts
       - SpectaclesInteractionKit/Core
       - SpectaclesInteractionKit/Core/ConfigurationValidator
       - SpectaclesInteractionKit/Core/ConfigurationValidator/ConfigurationValidator.ts
@@ -224,10 +262,8 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Core/MouseInteractor
       - SpectaclesInteractionKit/Core/MouseInteractor/MouseInteractor.ts
       - SpectaclesInteractionKit/Declarations
-      - SpectaclesInteractionKit/Declarations/requireAssetDeclaration.d.ts
       - SpectaclesInteractionKit/Decorators
       - SpectaclesInteractionKit/Decorators/Singleton.ts
-      - SpectaclesInteractionKit/Prefabs
       - SpectaclesInteractionKit/Prefabs/ScrollViewListItem.prefab
       - SpectaclesInteractionKit/Prefabs/SpectaclesInteractionKit.prefab
       - SpectaclesInteractionKit/Providers
@@ -313,8 +349,9 @@ CollapsedEntities:
       - SpectaclesInteractionKit/Utils/views/View.ts
       - SpectaclesInteractionKit/package.native
       - Sphere.mesh
-      - Sports Pack
       - Sports Pack/.hidden/baseball.ss_graph
+      - Sports Pack/Bitmoji Sports Pack Resourcres
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Material
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Material/baseball.mat
@@ -335,6 +372,8 @@ CollapsedEntities:
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Material/boomerang.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Meshes/C_boomerang_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Material
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Material/curling_stone.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Meshes/C_curling_stoneBlue_GEO.mesh
@@ -397,6 +436,8 @@ CollapsedEntities:
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Material/tee_baseball.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Meshes/C_tee_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Material
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Material/tennis_ball.mat
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes
       - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/C_tennis_ball_GEO.mesh
