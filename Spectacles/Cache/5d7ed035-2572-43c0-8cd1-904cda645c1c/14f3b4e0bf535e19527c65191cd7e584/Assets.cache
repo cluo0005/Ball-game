@@ -1,0 +1,15 @@
+- !<AssetCache/14f3b4e0-bf53-5e19-527c-65191cd7e584>
+  AssetFiles:
+    d9086411-9324-45e8-92ee-f2cebd5ee70d: 5d7ed035-2572-43c0-8cd1-904cda645c1c/14f3b4e0bf535e19527c65191cd7e584/Data/hockey_puck_color.png
+  AssetCurrentFiles:
+    d9086411-9324-45e8-92ee-f2cebd5ee70d: 5d7ed035-2572-43c0-8cd1-904cda645c1c/14f3b4e0bf535e19527c65191cd7e584/Data/Performance/Medium/hockey_puck_color.pvr
+  Assets:
+    - !<FileTexture/d9086411-9324-45e8-92ee-f2cebd5ee70d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 14f3b4e0bf535e19527c65191cd7e584
+  FileHash: 494426e51461ff07276c76fcd7b51b7a
+  NativePackageItems:
+    []

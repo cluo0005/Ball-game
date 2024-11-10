@@ -1,0 +1,18 @@
+- !<AssetCache/15b0d293-b2b2-c2fc-a16a-2242954fdef0>
+  AssetFiles:
+    c78aa592-7e86-47dc-8874-0085c35430ed: e4664356-bf93-4a0e-a700-5e6e7d2bd638/15b0d293b2b2c2fca16a2242954fdef0/Data/C_curling_stoneRed_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/c78aa592-7e86-47dc-8874-0085c35430ed>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 904
+        Vertices: 559
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 15b0d293b2b2c2fca16a2242954fdef0
+  FileHash: b78a1e49a0a73146f2362861aa65268e
+  NativePackageItems:
+    []

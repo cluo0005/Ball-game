@@ -1,0 +1,15 @@
+- !<AssetCache/37436b1d-152e-2a9d-a703-9f05bdda8614>
+  AssetFiles:
+    9a781417-8463-44ab-8418-5ace35bf970a: 5716bd25-a2c7-4838-9f16-a43a66fd30f8/37436b1d152e2a9da7039f05bdda8614/Data/stadium_seat_color.png
+  AssetCurrentFiles:
+    9a781417-8463-44ab-8418-5ace35bf970a: 5716bd25-a2c7-4838-9f16-a43a66fd30f8/37436b1d152e2a9da7039f05bdda8614/Data/Performance/Medium/stadium_seat_color.pvr
+  Assets:
+    - !<FileTexture/9a781417-8463-44ab-8418-5ace35bf970a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 37436b1d152e2a9da7039f05bdda8614
+  FileHash: c8af09a25ea87f280d6daca0705a8e4d
+  NativePackageItems:
+    []

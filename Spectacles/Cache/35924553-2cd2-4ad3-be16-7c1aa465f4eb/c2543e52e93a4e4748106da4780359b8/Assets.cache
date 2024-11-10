@@ -1,0 +1,18 @@
+- !<AssetCache/c2543e52-e93a-4e47-4810-6da4780359b8>
+  AssetFiles:
+    e68531cd-1340-4ad7-85f0-aa36e7e3cf69: 35924553-2cd2-4ad3-be16-7c1aa465f4eb/c2543e52e93a4e4748106da4780359b8/Data/C_stadium_seat_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e68531cd-1340-4ad7-85f0-aa36e7e3cf69>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 1020
+        Vertices: 1044
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: c2543e52e93a4e4748106da4780359b8
+  FileHash: 618524e8918043a2f972facf32befeb9
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/15a13887-17b1-a386-3132-88a1d25936c0>
+  AssetFiles:
+    f6355d75-fe81-4b7c-951e-4558792aef9e: 5a4b8b6b-13dc-4fd2-824b-002eb5c4344b/15a1388717b1a386313288a1d25936c0/Data/C_tennis_ball_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/f6355d75-fe81-4b7c-951e-4558792aef9e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 336
+        Vertices: 190
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 15a1388717b1a386313288a1d25936c0
+  FileHash: 653909d917885d620e3634fcdbc14ead
+  NativePackageItems:
+    []

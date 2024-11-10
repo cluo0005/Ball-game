@@ -1,0 +1,15 @@
+- !<AssetCache/f0e69657-4639-45a0-b5d7-432d56c3de5f>
+  AssetFiles:
+    7eeb567b-602a-43e0-93d1-c3b3667de49f: c2257b42-c584-47db-ba3d-ae8b0c59a128/f0e69657463945a0b5d7432d56c3de5f/Data/karate_board_holder_color.png
+  AssetCurrentFiles:
+    7eeb567b-602a-43e0-93d1-c3b3667de49f: c2257b42-c584-47db-ba3d-ae8b0c59a128/f0e69657463945a0b5d7432d56c3de5f/Data/Performance/Medium/karate_board_holder_color.pvr
+  Assets:
+    - !<FileTexture/7eeb567b-602a-43e0-93d1-c3b3667de49f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: f0e69657463945a0b5d7432d56c3de5f
+  FileHash: 94c8afd86a248e7e11b783d50229d221
+  NativePackageItems:
+    []

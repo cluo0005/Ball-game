@@ -1,0 +1,15 @@
+- !<AssetCache/e577a320-8680-f51e-d875-4e48455fd19b>
+  AssetFiles:
+    43b8c09c-355d-41a3-8c14-ca6a52a8c931: 4317bd2a-fdec-478e-92b5-207d37e26900/e577a3208680f51ed8754e48455fd19b/Data/ski_poles_color.png
+  AssetCurrentFiles:
+    43b8c09c-355d-41a3-8c14-ca6a52a8c931: 4317bd2a-fdec-478e-92b5-207d37e26900/e577a3208680f51ed8754e48455fd19b/Data/Performance/Medium/ski_poles_color.pvr
+  Assets:
+    - !<FileTexture/43b8c09c-355d-41a3-8c14-ca6a52a8c931>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 2048
+        Height: 2048
+  SourceHash: e577a3208680f51ed8754e48455fd19b
+  FileHash: d90627f9353de22d397561fec0e1dfa9
+  NativePackageItems:
+    []

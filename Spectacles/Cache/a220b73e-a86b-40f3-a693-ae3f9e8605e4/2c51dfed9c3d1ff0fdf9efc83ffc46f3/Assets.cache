@@ -1,0 +1,15 @@
+- !<AssetCache/2c51dfed-9c3d-1ff0-fdf9-efc83ffc46f3>
+  AssetFiles:
+    24900c25-9b5b-4a9c-bcd5-c5da6f426d55: a220b73e-a86b-40f3-a693-ae3f9e8605e4/2c51dfed9c3d1ff0fdf9efc83ffc46f3/Data/trekking_pole_color.png
+  AssetCurrentFiles:
+    24900c25-9b5b-4a9c-bcd5-c5da6f426d55: a220b73e-a86b-40f3-a693-ae3f9e8605e4/2c51dfed9c3d1ff0fdf9efc83ffc46f3/Data/Performance/Medium/trekking_pole_color.pvr
+  Assets:
+    - !<FileTexture/24900c25-9b5b-4a9c-bcd5-c5da6f426d55>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 2c51dfed9c3d1ff0fdf9efc83ffc46f3
+  FileHash: 595beac00906e1b9bcba5d7c3af5ee64
+  NativePackageItems:
+    []

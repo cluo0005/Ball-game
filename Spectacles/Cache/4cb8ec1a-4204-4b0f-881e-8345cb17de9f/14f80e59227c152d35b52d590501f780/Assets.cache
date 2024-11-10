@@ -1,0 +1,18 @@
+- !<AssetCache/14f80e59-227c-152d-35b5-2d590501f780>
+  AssetFiles:
+    ecec5df8-19ce-4c9c-9ba4-501847838c13: 4cb8ec1a-4204-4b0f-881e-8345cb17de9f/14f80e59227c152d35b52d590501f780/Data/C_trekkingPole_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ecec5df8-19ce-4c9c-9ba4-501847838c13>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 282
+        Vertices: 363
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 14f80e59227c152d35b52d590501f780
+  FileHash: 8700fe646c291248ee357f8246810442
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/df373f22-115e-43a7-412d-a4d027412907>
+  AssetFiles:
+    4c881928-42d4-48f7-83a5-11956ad17190: a7ed54cd-a563-40f7-a15a-4972df120188/df373f22115e43a7412da4d027412907/Data/C_boomerang_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/4c881928-42d4-48f7-83a5-11956ad17190>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 140
+        Vertices: 144
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: df373f22115e43a7412da4d027412907
+  FileHash: 1473cc6e583aad33c7679bd8e369156e
+  NativePackageItems:
+    []

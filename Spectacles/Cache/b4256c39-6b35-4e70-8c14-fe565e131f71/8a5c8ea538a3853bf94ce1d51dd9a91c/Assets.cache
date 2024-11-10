@@ -1,0 +1,18 @@
+- !<AssetCache/8a5c8ea5-38a3-853b-f94c-e1d51dd9a91c>
+  AssetFiles:
+    dd809eec-c43d-4c12-a824-c1c08b453fef: b4256c39-6b35-4e70-8c14-fe565e131f71/8a5c8ea538a3853bf94ce1d51dd9a91c/Data/C_tennis_racket_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/dd809eec-c43d-4c12-a824-c1c08b453fef>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 542
+        Vertices: 511
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 8a5c8ea538a3853bf94ce1d51dd9a91c
+  FileHash: 9a36e93435bf973e9dcb1b7e90d80b6b
+  NativePackageItems:
+    []
