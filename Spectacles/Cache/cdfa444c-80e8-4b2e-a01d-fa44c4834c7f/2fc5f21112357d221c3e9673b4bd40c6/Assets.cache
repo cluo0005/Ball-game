@@ -2,7 +2,7 @@
   AssetFiles:
     616f49b6-2228-4948-a237-13bb7a80f187: cdfa444c-80e8-4b2e-a01d-fa44c4834c7f/2fc5f21112357d221c3e9673b4bd40c6/Data/kayak_paddle_color.png
   AssetCurrentFiles:
-    616f49b6-2228-4948-a237-13bb7a80f187: cdfa444c-80e8-4b2e-a01d-fa44c4834c7f/2fc5f21112357d221c3e9673b4bd40c6/Data/kayak_paddle_color.png
+    616f49b6-2228-4948-a237-13bb7a80f187: cdfa444c-80e8-4b2e-a01d-fa44c4834c7f/2fc5f21112357d221c3e9673b4bd40c6/Data/Performance/Medium/kayak_paddle_color.pvr
   Assets:
     - !<FileTexture/616f49b6-2228-4948-a237-13bb7a80f187>
       PackagePath: ""

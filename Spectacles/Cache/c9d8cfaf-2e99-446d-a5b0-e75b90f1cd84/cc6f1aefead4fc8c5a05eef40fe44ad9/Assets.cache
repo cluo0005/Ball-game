@@ -2,7 +2,7 @@
   AssetFiles:
     3f2755ae-ea4b-4434-be51-1df0be0e715e: c9d8cfaf-2e99-446d-a5b0-e75b90f1cd84/cc6f1aefead4fc8c5a05eef40fe44ad9/Data/close-icon-1.png
   AssetCurrentFiles:
-    3f2755ae-ea4b-4434-be51-1df0be0e715e: c9d8cfaf-2e99-446d-a5b0-e75b90f1cd84/cc6f1aefead4fc8c5a05eef40fe44ad9/Data/close-icon-1.png
+    3f2755ae-ea4b-4434-be51-1df0be0e715e: c9d8cfaf-2e99-446d-a5b0-e75b90f1cd84/cc6f1aefead4fc8c5a05eef40fe44ad9/Data/Size/Medium/close-icon-1.png
   Assets:
     - !<FileTexture/3f2755ae-ea4b-4434-be51-1df0be0e715e>
       PackagePath: ""

@@ -2,7 +2,7 @@
   AssetFiles:
     24900c25-9b5b-4a9c-bcd5-c5da6f426d55: a220b73e-a86b-40f3-a693-ae3f9e8605e4/2c51dfed9c3d1ff0fdf9efc83ffc46f3/Data/trekking_pole_color.png
   AssetCurrentFiles:
-    24900c25-9b5b-4a9c-bcd5-c5da6f426d55: a220b73e-a86b-40f3-a693-ae3f9e8605e4/2c51dfed9c3d1ff0fdf9efc83ffc46f3/Data/trekking_pole_color.png
+    24900c25-9b5b-4a9c-bcd5-c5da6f426d55: a220b73e-a86b-40f3-a693-ae3f9e8605e4/2c51dfed9c3d1ff0fdf9efc83ffc46f3/Data/Performance/Medium/trekking_pole_color.pvr
   Assets:
     - !<FileTexture/24900c25-9b5b-4a9c-bcd5-c5da6f426d55>
       PackagePath: ""

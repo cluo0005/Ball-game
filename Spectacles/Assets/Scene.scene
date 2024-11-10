@@ -2175,6 +2175,21 @@
     bottom: 0.000000
     right: 0.000000
     top: 0.000000
+- !<SceneObject/34c3adb3-a835-46b9-8d3f-d7c4b2c7c794>
+  PrefabRemaps:
+    []
+  Name: BoxColider
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 5.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cff2f518-ad45-456b-8a7d-ca52153c640c
 - !<ColliderComponent/35cbf71c-ed0e-46d5-b668-09ab98fe1696>
   PrefabRemaps:
     []
@@ -2453,6 +2468,61 @@
     bottom: -1.050000
     right: 5.000000
     top: 1.050000
+- !<ScriptComponent/3ff4ca23-4938-4b11-8d3f-4e16dcc69e99>
+  PrefabRemaps:
+    []
+  Name: InteractableManipulation
+  Enabled: true
+  ScriptAsset: !<reference> 664b556b-1946-4c2c-866a-e675b4e86006
+  ScriptInputsDefault:
+    minimumScaleFactor: true
+    maximumScaleFactor: true
+    enableTranslation: true
+    enableRotation: true
+    enableScale: true
+    enableStretchZ: true
+    showStretchZProperties: true
+    zStretchFactorMin: true
+    zStretchFactorMax: true
+    useFilter: true
+    showFilterProperties: true
+    minCutoff: true
+    beta: true
+    dcutoff: true
+    showTranslationProperties: true
+    _enableXTranslation: true
+    _enableYTranslation: true
+    _enableZTranslation: true
+    showRotationProperties: true
+    _rotationAxis: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      manipulateRootSceneObject: !<reference.SceneObject> e367166b-5aac-4fc2-a62c-039a62413956
+      minimumScaleFactor: 0.250000
+      maximumScaleFactor: !<float> 20.000000
+      enableTranslation: true
+      enableRotation: true
+      enableScale: true
+      enableStretchZ: true
+      showStretchZProperties: false
+      zStretchFactorMin: !<float> 1.000000
+      zStretchFactorMax: !<float> 12.000000
+      useFilter: true
+      showFilterProperties: false
+      minCutoff: !<float> 2.000000
+      beta: 0.015000
+      dcutoff: !<float> 1.000000
+      showTranslationProperties: false
+      _enableXTranslation: true
+      _enableYTranslation: true
+      _enableZTranslation: true
+      showRotationProperties: false
+      _rotationAxis: All
+  ScriptTypes:
+    "":
+      {}
 - !<SceneObject/40721228-85ea-47d9-802a-10272e92b90a>
   PrefabRemaps:
     []
@@ -5589,10 +5659,10 @@
   PrefabRemaps:
     []
   Name: Physics Collider
-  Enabled: true
+  Enabled: false
   Shape: !<Box/00000000-0000-0000-0000-000000000000>
-    FitVisual: true
-    Size: {x: 15.000000, y: 15.000000, z: 15.000000}
+    FitVisual: false
+    Size: {x: 2.000000, y: 5.000000, z: 15.000000}
   Matter: !<reference> 00000000-0000-0000-0000-000000000000
   Filter: !<reference> 00000000-0000-0000-0000-000000000000
   OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
@@ -8200,10 +8270,7 @@
     - !<own> 00000000-0000-0065-0000-000000000064
     - !<own> 0005641c-028d-459a-0000-000000014b4d
     - !<own> 597f6fa4-23e5-4230-9e74-1ece142cd000
-    - !<own> a6f8a917-4cad-4b72-9c5f-d40855b396ff
-    - !<own> e8d1c691-ebf7-4fb8-945c-f69c74ee0593
-    - !<own> f9c2f4fc-e387-4f56-882c-061f70249eb4
-    - !<own> b1763929-9410-4ec6-8018-f813c17b1bc0
+    - !<own> e367166b-5aac-4fc2-a62c-039a62413956
   Components:
     []
 - !<ScriptComponent/b3866999-93d5-438f-aeb4-da719fc367bd>
@@ -9139,6 +9206,24 @@
     - !<own> e7c338ff-68af-4b04-8796-140dad3881df
   Components:
     []
+- !<ColliderComponent/cff2f518-ad45-456b-8a7d-ca52153c640c>
+  PrefabRemaps:
+    []
+  Name: Physics Collider
+  Enabled: true
+  Shape: !<Box/00000000-0000-0000-0000-000000000000>
+    FitVisual: false
+    Size: {x: 2.000000, y: 10.000000, z: 15.000000}
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: true
 - !<SceneObject/d0af4516-d483-45c2-b52a-98798daa54fb>
   PrefabRemaps:
     []
@@ -9689,6 +9774,24 @@
   BlendNormals: false
   BlendShapes:
     {}
+- !<SceneObject/e367166b-5aac-4fc2-a62c-039a62413956>
+  PrefabRemaps:
+    []
+  Name: Parent
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a6f8a917-4cad-4b72-9c5f-d40855b396ff
+    - !<own> e8d1c691-ebf7-4fb8-945c-f69c74ee0593
+    - !<own> f9c2f4fc-e387-4f56-882c-061f70249eb4
+    - !<own> b1763929-9410-4ec6-8018-f813c17b1bc0
+  Components:
+    []
 - !<ScriptComponent/e3d816f1-5387-4330-97d5-d1dd93d2d83c>
   PrefabRemaps:
     []
@@ -9749,6 +9852,26 @@
   BlendNormals: false
   BlendShapes:
     {}
+- !<ScriptComponent/e500617e-7ab6-4272-b036-1fdf90f6de50>
+  PrefabRemaps:
+    []
+  Name: Interactable
+  Enabled: true
+  ScriptAsset: !<reference> 652e631a-22d0-4941-9f74-2943df59f34c
+  ScriptInputsDefault:
+    targetingMode: true
+    enableInstantDrag: true
+    allowMultipleInteractors: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      targetingMode: !<float> 3.000000
+      enableInstantDrag: false
+      allowMultipleInteractors: true
+  ScriptTypes:
+    "":
+      {}
 - !<DeviceTracking/e5553c8a-0b7e-4ef4-92d9-3e1318fb82c1>
   PrefabRemaps:
     []
@@ -10737,11 +10860,13 @@
     scale: {x: 100.000000, y: 0.500000, z: 0.500000}
     hasSegmentScaleCompensation: false
   Children:
-    []
+    - !<own> 34c3adb3-a835-46b9-8d3f-d7c4b2c7c794
   Components:
     - !<own> 7348c0f5-6ce0-4fa9-a20b-a3ad8bd9202b
     - !<own> 7ba8d327-f6d7-4789-a8cd-392fa557accf
     - !<own> 4c1bf45f-bbb0-4f84-ab49-00ee2ea84188
+    - !<own> e500617e-7ab6-4272-b036-1fdf90f6de50
+    - !<own> 3ff4ca23-4938-4b11-8d3f-4e16dcc69e99
 - !<ScriptComponent/fad2de66-721c-4a4d-a146-f5aa2d49a8fe>
   PrefabRemaps:
     []

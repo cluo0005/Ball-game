@@ -2,7 +2,7 @@
   AssetFiles:
     5eb38e15-aba2-4c72-9ded-9d6a55c51f3d: a77435e1-d76e-4719-80e3-24f246c634c9/89fdceaf21f14a0d28a45c40af0d04f2/Data/follow-white.png
   AssetCurrentFiles:
-    5eb38e15-aba2-4c72-9ded-9d6a55c51f3d: a77435e1-d76e-4719-80e3-24f246c634c9/89fdceaf21f14a0d28a45c40af0d04f2/Data/follow-white.png
+    5eb38e15-aba2-4c72-9ded-9d6a55c51f3d: a77435e1-d76e-4719-80e3-24f246c634c9/89fdceaf21f14a0d28a45c40af0d04f2/Data/Performance/Medium/follow-white.pvr
   Assets:
     - !<FileTexture/5eb38e15-aba2-4c72-9ded-9d6a55c51f3d>
       PackagePath: ""

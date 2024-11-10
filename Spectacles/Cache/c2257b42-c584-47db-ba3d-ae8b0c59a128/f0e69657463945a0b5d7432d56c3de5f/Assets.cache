@@ -2,7 +2,7 @@
   AssetFiles:
     7eeb567b-602a-43e0-93d1-c3b3667de49f: c2257b42-c584-47db-ba3d-ae8b0c59a128/f0e69657463945a0b5d7432d56c3de5f/Data/karate_board_holder_color.png
   AssetCurrentFiles:
-    7eeb567b-602a-43e0-93d1-c3b3667de49f: c2257b42-c584-47db-ba3d-ae8b0c59a128/f0e69657463945a0b5d7432d56c3de5f/Data/karate_board_holder_color.png
+    7eeb567b-602a-43e0-93d1-c3b3667de49f: c2257b42-c584-47db-ba3d-ae8b0c59a128/f0e69657463945a0b5d7432d56c3de5f/Data/Performance/Medium/karate_board_holder_color.pvr
   Assets:
     - !<FileTexture/7eeb567b-602a-43e0-93d1-c3b3667de49f>
       PackagePath: ""
