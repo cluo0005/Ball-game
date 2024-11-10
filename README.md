@@ -1,6 +1,6 @@
 # SnapMotion - Spectacles AR Motion Game
 
-![SnapMotion Game Demo](vid.gif)
+![SnapMotion Game Demo](vid.mp4)
 
 
 A motion-controlled AR game developed for Snap Spectacles using Lens Studio. Players control an ascending tennis ball through various levels by physical movement, interacting with floating platforms and collecting rewards.
